@@ -1,0 +1,121 @@
+=== PARAGRAPHS ===
+[0] Formulation, Optimization, and Comparative Evaluation of a Polyherbal Hydrogel Base Containing Salicylic Acid (2%) and Curcuma longa (Turmeric) Extract for Topical Applications
+[2] Samruddhi Nilesh Deshmukh, *Dr. Madhuri K. Gahalod
+[3] B.Tech Cosmetic Technology, 3rd year, MGM University, Chh. Sambhajinagar.
+[4] *Assistant Professor, Department of Cosmetic Technology, MGM University, Chh. Sambhajinagar.
+[6] ​ABSTRACT
+[7] This research details the formulation design, process optimization, and comprehensive physicochemical characterization of a topical hydrogel system containing a combination of 2.0% w/w Salicylic Acid (keratolytic active) and 10.0% w/w Turmeric Extract (Curcuma longa, anti-inflammatory active)[3,4]. Using Carbopol 940 (0.40% w/w) as a cross-linked gelling matrix, three experimental batches (F1, F2, F3) were formulated by varying co-solvent ratios and neutralizing agent concentrations [1, 2].
+[8] The optimized formulation (F3) demonstrated superior physical stability, desirable rheological flow, appropriate spread ability, and a skin-compatible pH value of 5.8 ± 0.2[1,4]. Comparative analysis with a standard commercial 2% salicylic acid gel revealed superior humectants properties and a non-greasy, smooth skin feel [1, 3]. The findings indicate that the developed hydrogel offers a balanced, synergistic approach for managing inflammatory dermatological conditions [3, 4].
+[9] ​	Keywords:-  Salicylic Acid, Turmeric Extract, Curcuma longa, Hydrogel Optimization, Carbopol 940, Topical Delivery Systems, Physicochemical Evaluation.
+[10] ​
+[11] 1. INTRODUCTION
+[12] ​	Topical dermatological formulations rely heavily on the balance between active therapeutic agents and vehicle compatibility [1, 4]. Among inflammatory skin disorders, acne vulgaris and hyper pigmentation require dual-action therapies that combine exfoliative and anti-inflammatory mechanisms. [3,4]
+[13] ​
+[15] Actives Profile
+[16] ​	Salicylic Acid (2.0% w/w): A lipophilic beta-hydroxy acid (BHA) that penetrates deeply into the pilosebaceous unit[3,4].It works by dissolving intercellular cement, shedding dead epidermal cells, and clearing comedones[1,3].
+[17] ​	Turmeric Extract / Curcuma longa (10.0% w/w): Rich in bioactive polyphenols known as curcuminoids (curcumin, desmethoxycurcumin, bisdemethoxycurcumin) [3]. It exhibits potent free-radical scavenging, anti-inflammatory (via NF-κB pathway suppression), and antimicrobial activities against skin pathogens such as Cutibacterium acnes [3, 4].
+[18] ​2. RATIONALE OF THE STUDY
+[19] ​	While 2% salicylic acid is a standard monotherapy for topical exfoliation, its use is frequently accompanied by localized adverse effects, including dry skin, scaling, erythema, and barrier disruption [3, 4].
+[20] Integrating a high concentration of Turmeric Extract (10%) serves a dual purpose:
+[21] ​Synergistic Efficacy: Combines chemical exfoliation with anti-inflammatory soothing [3].
+[22] ​Side-Effect Mitigation: Offsets salicylic acid-induced irritation via natural antioxidants and skin-soothing bioflavonoid [3, 4].
+[23] ​The target formulation utilizes an aqueous hydrogel structure to ensure a light, non-occlusive, non-greasy skin feel suitable for acne-prone skin types [1, 4].
+[24] ​3. EXPERIMENTAL WORK
+[25] ​Role of Ingredients and Excipient Profile
+[26] Active Pharmaceutical Ingredients (APIs):
+[27] ​		Salicylic Acid (2.0% w/w) — Keratolytic agent [1, 3].
+[28] ​		Turmeric Extract (10.0% w/w) — Herbal active/antioxidant [3].
+[29] ​Co-solvents & Solubilizers:
+[30] ​Propylene Glycol (15.0% w/w) — Primary solvent required to completely dissolve crystalline salicylic acid and prevent precipitation upon gelation [1, 2].
+[31] ​Methyl Propylene Glycol / Methyl propanediol (1.0% w/w) — Secondary solvent and penetration enhancer; aids in clear dispersion of herbal extracts [1, 2].
+[32] ​Humectants & Plasticizers:
+[33] ​Glycerine (3.0% w/w) — Retains skin surface moisture and counteracts localized desquamation [2, 4].
+[34] ​	Sorbitol (1.0% w/w) — Prevents skin dryness and improves gel texture [2, 4].
+[35] ​Gelling Matrix:
+[36] ​Carbopol 940 (0.40% w/w) — High molecular weight polymer of acrylic acid cross-linked with allyl ethers of pentaerythritol; provides structural viscosity and clarity [1, 2].
+[37] ​Neutralizing Agent / Buffer:
+[38] ​Triethanolamine (TEA) (q.s.) — Tertiary amine used to adjust pH, neutralize carboxyl groups on the Carbopol backbone, and trigger gel network expansion[1,2].
+[39] ​Vehicle:
+[40] ​	Purified Water (q.s. to 100.0%) — Continuous aqueous phase [1, 2].
+[41] ​3.2 Formulation Master Formula & Batch Scaling (100g Batch)
+[42] ​Note: For a standard 100.0 g total batch mass, the weight calculations are corrected as follows:
+[45] 3.3 Method of Preparation and Optimization
+[46] [Phase A: Hydration]
+[47] Carbopol 940 + Warm Purified Water ➔ Hydrate for 12 hours (Swollen Polymer Dispersion)
+[48] │
+[49] ▼
+[50] [Phase B: Active Solubilization]
+[51] Salicylic Acid + Propylene Glycol + Methyl Propylene Glycol ➔ Stir until clear solution
+[52] │
+[53] ▼
+[54] [Phase C: Herbal Phase]
+[55] Phase B + Turmeric Extract + Glycerine + Sorbitol ➔ Homogenize solution
+[56] │
+[57] ▼
+[58] [Phase D: Blending & Neutralization]
+[59] Combine Phase A, Phase B& Phase C ➔ Add TEA dropwise under continuous slow agitation ➔ Gel Formation
+[61] PROCEDURE: -
+[62] ​Phase A (Polymer Dispersion): Carbopol 940 was sprinkled uniformly over warm Purified Water and allowed to swell overnight to ensure complete hydration without clump formation [1, 2].
+[63] ​Phase B (Active Solubilization): Salicylic Acid was dissolved in a blend of Propylene Glycol and Methyl Propylene Glycol under mild agitation until a clear, particle-free solution was obtained[1,2].
+[64] ​Phase C (Botanical Blend): Turmeric Extract, Glycerin, and Sorbitol were incorporated into
+[65] Phase B and stirred until homogeneous. [2,3].
+[66] ​Phase D (Gel Cross-linking): Phase C was slowly poured into Phase A with constant, low-shear mechanical stirring to avoid air entrapment [1].
+[67] ​Neutralization: Triethanolamine (TEA) was added dropwise to induce polymer neutralization, converting the liquid phase into a coherent, viscous hydrogel.[1,2].
+[68] ​Optimization Strategy (3 Batches)
+[69] ​Batch F1 (Low Polymer - 0.3%): Yielded an under-cross linked fluid system with low viscosity and high runnability [1].
+[70] ​Batch F2 (High Polymer - 0.5% + High TEA): Resulted in an excessively rigid gel network with high alkaline pH (> 7.2), which compromises salicylic acid bioavailability and causes skin irritation[1,4].
+[71] ​Batch F3 (Optimized Formulation - 0.4% Carbopol + Controlled TEA): Achieved an ideal yield value, optimal spread ability, smooth texture, and skin-compatible pH (5.8). [1,4].
+[72] ​4. EVALUATION AND ANALYSIS OF FORMULATION
+[73] ​The optimized Batch F3 was evaluated across physical, chemical, and functional metrics alongside a standard commercial 2% salicylic acid gel (Control)[1,4].
+[74] ​Evaluation Protocol & Results Matrix
+[81] 5. INTERPRETATION OF RESULTS AND DISCUSSION
+[82] ​Solubilization Stability: Salicylic acid was successfully solubilized within the co-solvent blend (Propylene Glycol + Methyl Propylene Glycol)[1,2].No crystalline precipitation was observed under polarized microscopy, confirming that the co-solvent system prevents active crystallization[1].
+[83] ​Rheology & Spread ability: Batch F3 demonstrated pseudo plastic (shear-thinning) flow behaviour [1].High viscosity at rest (21,400 cP) prevents product leakage from packaging, while low viscosity under shear forces ensures smooth application on affected skin areas)[1,4].
+[84] ​pH Compatibility: The final pH of 5.80 is compatible with the natural acid mantle of human skin (pH 4.5–5.5)[4].This provides a safe compromise: it maintains salicylic acid efficacy without inducing acid burn or cellular irritation[3,4].
+[85] ​Comparative Advantage: Unlike the marketed control product—which showed a post-application drying effect—Batch F3 maintained skin hydration due to the combined action of Glycerin, Sorbitol, and Turmeric Extract [2, 3, 4].
+[86] ​6. EXPECTED ADVANTAGES OF DEVELOPED FORMULATION
+[87] ​Dual Therapeutic Action: Simultaneous exfoliation (keratolysis) and soothing (anti-inflammatory)[3,4].
+[88] ​Enhanced Skin Tolerance: Humectant matrix minimizes localized desquamation, peeling, and dryness commonly caused by standard beta-hydroxy acid gels[2,3].
+[89] ​Optimal Aesthetics: Water-based, non-comedogenic, non-greasy hydrogel matrix provides quick absorption and a cooling post-application sensation.[1,4].
+[91] ​7. LIMITATIONS OF THE STUDY
+[92] ​Staining Potential: The high concentration of natural Turmeric Extract (10%) imparts a distinct yellow color that can stain light-colored clothing or bedding if applied heavily. [3, 4].
+[93] ​Photo degradation: Curcuminoids are light sensitive [3].The product must be stored in opaque or amber-coloured airless pump containers to prevent photo-oxidation over time.[1,3].
+[94] ​Long-Term Stability Testing: Accelerated real-time stability studies (40°C / 75%RH) over 6 months are required to confirm shelf-life shelf behaviour [1].
+[95] ​8. CONCLUSION
+[96] ​	A polyherbal hydrogel containing 2.0% Salicylic Acid and 10.0% Turmeric Extract was successfully formulated, optimized, and evaluated [1, 3]. Batch F3 achieved optimal physicochemical properties, ideal viscosity, smooth spread ability, and stable pH balance [1, 4].
+[97] The inclusion of botanical actives successfully addressed the drying side effects of conventional salicylic acid gels while maintaining structural stability and desirable cosmetic feel [3, 4].
+[98] ​9. REFERENCES
+[99] ​Allen, L. V., & Ansel, H. C. (2014). Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems. Lippincott Williams & Wilkins.
+[100] ​Rowe, R. C., Sheskey, P. J., & Quinn, M. E. (2009). Handbook of Pharmaceutical Excipients (6th ed.). Pharmaceutical Press.
+[101] ​Kapoor, S., & Saraf, S. (2010). Topical herbal therapies for acne: A review. Research Journal of Medicinal Plant, 4[3], 116-124.
+[102] ​Barel, A. O., Paye, M., & Maibach, H. I. (2014). Handbook of Cosmetic Science and Technology. CRC Press.
+
+=== TABLES ===
+
+--- Table 1 ---
+Ingredients | Standard target (% w/w) | Batch F1 (100g) | Batch F2 (100g) | Batch F3 (100g)
+Salicylic acid | 2.00% | 2.00g | 2.00g | 2.00g
+Turmeric extract | 10.00% | 10.00g | 10.00g | 10.00g
+Propylene glycol | 15.00% | 15.00g | 15.00g | 15.00g
+Glycerine | 3.00% | 3.00g | 3.00g | 3.00g
+Sorbitol | 1.00% | 1.00g | 1.00g | 1.00g
+Methyl propylene glycol | 1.00% | 1.00g | 1.00g | 1.00g
+Carbopol 940 | 0.40% | 0.30g | 0.50g (0.50%) | 0.40g (0.40%)
+Triethanolamine | QS | 3drops | 8drops | QS(pH5.8)
+Purified Water | QS 100% | QS 100.0g | QS 100.0g | QS 100.0g
+
+--- Table 2 ---
+Parameters | Standard Parameters / Acceptance Criteria | Test method/ apparatus | Batch F3 (Optimized) | Marketed product (control)
+Appearance [1] | Smooth, homogeneous gel matrix | Visual inspection under white light background | Translucent, smooth hydrogel | Clear, transparent gel
+Clarity [1] | Clear to translucent; absence of turbidity/precipitate | Direct light transmission check | Semi-transparent (herbal tint) | Transparent
+Odour[4] | Pleasant or characteristic herbal scent; free from rancidity | Olfactory sensory assessment | Characteristic mild turmeric scent | Synthetic fragrance
+Colour[4] | Pleasant or characteristic herbal scent; free from rancidity | Visual comparison against colour chart | Golden yellow to light orange | Colorless / Off-white
+Uniformity[1] | Uniform characteristic colour corresponding to active extracts | Visual check across top, middle, bottom layers | Highly uniform | Highly uniform
+Presence of particles [1] | Consistent texture throughout whole batch | Light microscope examination (10x) | Free of gritty particles | Free of particles
+Lumps [1] | Complete absence of agglomerates or unswollen polymer lumps | Smear test between two glass plates | No lump formation observed | No lump formation observed
+Phase separation[1] | Stable gel structure; 0% liquid phase separation | Centrifugation test (3000 rpm, 30 min) | Stable; 0% phase separation | Stable; 0% phase separation
+pH value [4] | Skin-compatible range: 4.5 – 6.5 | Digital calibrated pH meter (25° C ) | 5.80 ± 0.15 | 5.50 ± 0.10
+Viscosity [1] | Target cosmetic range: 15,000 – 30,000 cP | Brookfield Viscometer (Spindle 6, 20 rpm) | 21,400 ± 350 cP | 19,800 ± 200 cP
+Spread ability [1] | Range: 15 – 25 g·cm/s (Easily spreadable under minimal force) | Parallel glass plate sliding method | 18.75 g·cm/s | 19.40 g·cm/s
+Homogeneity [1] | Uniform film formation without streaks or voids | Tactile and visual slide test | Complete surface homogeneity | Complete surface homogeneity
+Skin feels[4] | Non-sticky, smooth, non-greasy, cooling post-application | Human panel patch evaluation (n=5) | Non-sticky, cooling, moisturizing | Slightly drying post-evaporation
